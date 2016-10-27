@@ -1,1 +1,1 @@
-This is my BernardMaling's first git project
+This is BernardMaling's first git project
